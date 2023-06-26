@@ -43,7 +43,7 @@ Feel free to explore these repositories for a closer look at my coding style and
 - Website: [Samuel Torres](https://absfregs.com/profile)
 
 Please don't hesitate to reach out to me via GitHub or Email. I'm open to collaboration and always excited to discuss new opportunities.
-
+<div style="display: flex;gap: 5px;">
 <img style="width: 50px;" title="Blender" src="./images/blender.svg" />
 <img style="width: 50px;" title="C++" src="./images/cpp.svg" />
 <img style="width: 50px;" title="C#" src="./images/csharp.svg" />
@@ -60,3 +60,4 @@ Please don't hesitate to reach out to me via GitHub or Email. I'm open to collab
 <img style="width: 50px;" title="SQL Server" src="./images/sql-server.svg" />
 <img style="width: 50px;" title="TypeScript" src="./images/ts.svg" />
 <img style="width: 50px;" title="Visual Studio" src="./images/vs.svg" />
+</div>
