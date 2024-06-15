@@ -40,7 +40,7 @@ Feel free to explore these repositories for a closer look at my coding style and
 
 - GitHub: [SamukaDEV](https://github.com/SamukaDEV)
 - Email: [absfregs@gmail.com](mailto:absfregs@gmail.com)
-- Website: [Samuel Torres](https://absfregs.com/profile)
+- Website: [Samuel Torres](https://absfregs.com/v2/team/samuel-torres)
 
 Please don't hesitate to reach out to me via GitHub or Email. I'm open to collaboration and always excited to discuss new opportunities.
 <div style="display: flex;gap: 5px;">
