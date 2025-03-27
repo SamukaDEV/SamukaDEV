@@ -1,49 +1,47 @@
 # Samuel Torres (SamukaDEV)
-Web Developer | FrontEnd | BackEnd
+**Software Developer | Web & Game Development | Full-Stack**
 
 ## Overview
 
-- GitHub: [SamukaDEV](https://github.com/SamukaDEV)
-- Primary Expertise: Web Development
-- Languages: HTML5, JavaScript, CSS, SQL
-- Additional Languages (Hobbies): C#, VB.Net, C++, Rust, TypeScript, Java, Python
-- Hobbies: Game Development, 3D Modeling
+- **GitHub:** [SamukaDEV](https://github.com/SamukaDEV)
+- **Expertise:** Web Development, Backend, Game Development
+- **Languages:** JavaScript, TypeScript, SQL, HTML5, CSS
+- **Additional Languages:** C#, C++, Rust, Java, Python, VB.Net
+- **Databases:** MySQL, SQL Server, PostgreSQL, MongoDB
+- **Hobbies:** Game Development, 3D Modeling
 
 ## About Me
 
-Hello! I'm SamukaDEV, a passionate web developer with over 5 years of experience in the field. I am proficient in HTML5, JavaScript, CSS, and have hands-on experience with both frontend and backend development. I also have extensive knowledge of SQL, MySQL, and SQL Server for database management.
+I'm Samuel Torres, a seasoned software developer with over five years of experience in web and backend development. My expertise includes JavaScript, TypeScript, SQL, and full-stack web applications.
 
-In addition to my primary expertise, I have explored various programming languages as hobbies. I have worked with C#, VB.Net, C++, Rust, TypeScript, and Java on personal projects, expanding my skill set and knowledge base.
+Beyond web development, I have a strong interest in game development and 3D modeling, often working with C++, Rust, and C#. These hobbies allow me to apply programming concepts in creative ways, strengthening my problem-solving skills.
 
-Aside from coding, I have a keen interest in game development. I enjoy creating personal projects, including game development and 3D modeling. These hobbies allow me to explore my creativity and enhance my problem-solving skills.
-
-I'm excited to collaborate with other developers and contribute to open source projects. Feel free to explore my GitHub repositories to see my past work and contributions.
+I am always looking for opportunities to collaborate on challenging projects and contribute to open-source initiatives. Feel free to explore my GitHub repositories to see my work.
 
 ## Skills
 
-- Web Development: HTML5, JavaScript, CSS, Frontend, Backend
-- Databases: SQL, MySQL, SQL Server
-- Additional Languages: C#, VB.Net, C++, Rust, TypeScript, Java
-- Databases(Hobbies): MongoDB, Postgre
-- Game Development
-- 3D Modeling
+### Web Development
+- Frontend: JavaScript, TypeScript, HTML5, CSS  
+- Backend: Node.js, SQL, API Development
 
-<!-- ## Projects
-Here are some noteworthy projects I have worked on:
-- [Project 1](https://github.com/SamukaDEV/project1): A web application that showcases my frontend skills using HTML, CSS, and JavaScript.
-- [Project 2](https://github.com/SamukaDEV/project2): A full-stack web application developed with HTML, CSS, JavaScript, and a backend framework like Express.js.
-- [Project 3](https://github.com/SamukaDEV/project3): A game developed using one of my hobby languages, Rust, showcasing my skills in game development.
+### Databases
+- **Primary:** MySQL, SQL Server  
+- **Additional:** PostgreSQL, MongoDB
 
-Feel free to explore these repositories for a closer look at my coding style and project contributions. -->
+### Game Development & Others
+- **Languages:** C#, C++, Rust, Java, Python, VB.Net  
+- **Technologies:** 3D Modeling, Game Engines
 
 ## Contact
 
-- GitHub: [SamukaDEV](https://github.com/SamukaDEV)
-- Email: [absfregs@gmail.com](mailto:absfregs@gmail.com)
-- Website: [Samuel Torres](https://absfregs.com/v2/team/samuel-torres)
+- **GitHub:** [SamukaDEV](https://github.com/SamukaDEV)
+- **Email:** [absfregs@gmail.com](mailto:absfregs@gmail.com)
+- **Website:** [Samuel Torres](https://educlass.cloud/v2/team/samuel-torres)
 
-Please don't hesitate to reach out to me via GitHub or Email. I'm open to collaboration and always excited to discuss new opportunities.
-<div style="display: flex;gap: 5px;">
+I’m open to new projects, collaborations, and professional discussions. Reach out via GitHub or email.
+
+## Tech Stack
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
 <img style="width: 50px;" title="Blender" src="./images/blender.svg" />
 <img style="width: 50px;" title="C++" src="./images/cpp.svg" />
 <img style="width: 50px;" title="C#" src="./images/csharp.svg" />
@@ -52,9 +50,9 @@ Please don't hesitate to reach out to me via GitHub or Email. I'm open to collab
 <img style="width: 50px;" title="Java" src="./images/java.svg" />
 <img style="width: 50px;" title="JavaScript" src="./images/js.svg" />
 <img style="width: 50px;" title="MySQL" src="./images/mysql.svg" />
-<img style="width: 50px;" title="Nodejs" src="./images/node.svg" />
+<img style="width: 50px;" title="Node.js" src="./images/node.svg" />
 <img style="width: 50px;" title="PHP" src="./images/php.svg" />
-<img style="width: 50px;" title="Postgre" src="./images/postgre.svg" />
+<img style="width: 50px;" title="PostgreSQL" src="./images/postgre.svg" />
 <img style="width: 50px;" title="Python" src="./images/python.svg" />
 <img style="width: 50px;" title="Rust" src="./images/rust.svg" />
 <img style="width: 50px;" title="SQL Server" src="./images/sql-server.svg" />
