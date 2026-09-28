@@ -5,7 +5,7 @@
 
 - **GitHub:** [SamukaDEV](https://github.com/SamukaDEV)
 - **Expertise:** Web Development, Backend, Game Development
-- **Languages:** JavaScript, TypeScript, SQL, HTML5, CSS
+- **Languages:** JavaScript, TypeScript, SQL
 - **Additional Languages:** C#, C++, Rust, Java, Python, VB.Net
 - **Databases:** MySQL, SQL Server, PostgreSQL, MongoDB
 - **Hobbies:** Game Development, 3D Modeling
